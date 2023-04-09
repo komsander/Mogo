@@ -1,0 +1,2 @@
+# Mogo
+one page website
